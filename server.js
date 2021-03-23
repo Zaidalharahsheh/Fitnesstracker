@@ -28,7 +28,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/fittrack",
     useUnifiedTopology: true,
     useCreateIndex: true,
     useFindAndModify: false
-  }
+  },
 { useNewUrlParser: true });
 
 //require('./seeders/seed')
