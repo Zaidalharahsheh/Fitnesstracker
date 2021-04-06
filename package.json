@@ -1,7 +1,7 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "## description   make your life better ##  Contents     - [description](#description)     - [Installation](#Installation)     - [language](#language)     - [License](#License)     - [badge](#badge)     - [Aurthors](#Aurthors)     - [screenshots](#screenshots)     - [Github](#Github)     - [GithubURL](#githubURL)     - [Linkedin](#Linkedin)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +15,14 @@
     "express": "^4.17.1",
     "mongoose": "^5.12.0",
     "morgan": "^1.10.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaidalharahsheh/Fitnesstracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zaidalharahsheh/Fitnesstracker/issues"
+  },
+  "homepage": "https://github.com/Zaidalharahsheh/Fitnesstracker#readme"
 }
